@@ -1,0 +1,14 @@
+C:\Users\cleid\TDE\bin\Debug\net8.0\TDE.exe
+C:\Users\cleid\TDE\bin\Debug\net8.0\TDE.deps.json
+C:\Users\cleid\TDE\bin\Debug\net8.0\TDE.runtimeconfig.json
+C:\Users\cleid\TDE\bin\Debug\net8.0\TDE.dll
+C:\Users\cleid\TDE\bin\Debug\net8.0\TDE.pdb
+C:\Users\cleid\TDE\obj\Debug\net8.0\TDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleid\TDE\obj\Debug\net8.0\TDE.AssemblyInfoInputs.cache
+C:\Users\cleid\TDE\obj\Debug\net8.0\TDE.AssemblyInfo.cs
+C:\Users\cleid\TDE\obj\Debug\net8.0\TDE.csproj.CoreCompileInputs.cache
+C:\Users\cleid\TDE\obj\Debug\net8.0\TDE.dll
+C:\Users\cleid\TDE\obj\Debug\net8.0\refint\TDE.dll
+C:\Users\cleid\TDE\obj\Debug\net8.0\TDE.pdb
+C:\Users\cleid\TDE\obj\Debug\net8.0\TDE.genruntimeconfig.cache
+C:\Users\cleid\TDE\obj\Debug\net8.0\ref\TDE.dll
